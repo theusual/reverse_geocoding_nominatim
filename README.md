@@ -8,4 +8,4 @@ Also currently switches automatically between the OSM hosted nominatim database 
 To run from command line use:
 python get_address.py <input_file> <output_file> <log_file> <email_address> [start_line] [end_line] [throttle_time] [delimiter]
 
-REQUIRES: PANDAS
+REQUIRES PANDAS
